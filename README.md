@@ -1,4 +1,5 @@
 Tiatanic_EDA_Practice_Project
+
 📌 Overview
 This project explores the Titanic dataset using Exploratory Data Analysis (EDA) techniques in Python with Seaborn and Pandas. We analyze survival rates based on passenger demographics, ticket class, fare, family relations, and embarkation points. Various visualizations and statistical methods are used to uncover patterns in the data.
 
